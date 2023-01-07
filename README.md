@@ -5,4 +5,4 @@ With:
 - API 
 - Bloc Provider
 
-<img width="976" alt="Slika zaslona 2022-07-07 u 11 50 31" src="https://imgur.com/KJZ6Kwl">
+<img width="976" alt="Slika zaslona 2022-07-07 u 11 50 31" src="https://i.imgur.com/KJZ6Kwl.png">
